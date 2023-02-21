@@ -13,6 +13,6 @@ public class Zad10 {
         char PierwszyInitial = pierwszeimie.charAt(0);
         char DrugiInitial = drugieimie.charAt(0);
         char nazwiskoInitial= nazwisko.charAt(0);
-        System.out.print("Twoje inicjaly to:" +pierwszeimie+ drugieimie+ nazwisko);
+        System.out.print("Twoje inicjaly to:" +PierwszyInitial+ DrugiInitial+nazwiskoInitial);
     }
 }
